@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1523463984 source:c:\users\walmart\documents\c++\cis 161\assignments\asignment4\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<ctime>
+	<string>
+	<iomanip>
+	"LinkedList.h"
+
+1523373804 c:\users\walmart\documents\c++\cis 161\assignments\asignment4\linkedlist.h
+	<string>
+
+1523374619 source:c:\users\walmart\documents\c++\cis 161\assignments\asignment4\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+	<ctime>
+
